@@ -1,0 +1,14 @@
+.cell{
+    background-color: rgba(201, 97, 201, 0.3);
+    width: 60px;
+    height: 60px;
+    border-radius: 18px;
+}
+.x{
+    font-size: x-large;
+    background-color:lawngreen;
+}
+.o{
+    font-size: x-large;
+    background-color: palevioletred;
+}
